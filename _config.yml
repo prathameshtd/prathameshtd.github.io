@@ -1,56 +1,52 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Your Name
-email: you@example.com
+name: Prathamesh Dharangutte
+email: prathameshd@nyu.edu
 description: > # this means to ignore newlines until "url:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Prathamesh Dharangutte personal website.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-
-url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+  
+url: https://prathameshtd.github.io/ # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
+github_username: prathameshtd
+twitter_username: prathamd451
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
+
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best way to reach me is at prathameshd@nyu.edu
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+#blog_name: Blog
+#blog_description: Some things which I think are worth discussing
 
 # Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+#paginate: 4
+#permalink: /blog/:year/:title/
+#paginate_path: /blog/page:num/
 
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
+#text:
+  #pagination:
+    #newer: 'Newer'
+    #older: 'Older'
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+# disqus_shortname: al-folio # put your disqus shortname
 
 # Optional features
-show_social_icons:  false
+show_social_icons:  true
 enable_anchorjs:    false
 enable_katex:       true
 
@@ -64,10 +60,12 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
-
-news_limit: 5
+  teaching:
+    output: false
+    permalink: /teaching/:path/
+#news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -79,6 +77,7 @@ highlighter: pygments
 
 # Includes & excludes
 include: ['_pages']
+exclude: ['_posts']
 exclude: [vendor]
 
 # Plug-ins
@@ -91,7 +90,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Dharangutte
 
   style: apa
   locale: en
