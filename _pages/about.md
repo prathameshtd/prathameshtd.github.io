@@ -22,6 +22,6 @@ My current interests in a nutshell include:
 	<li>Algorithms for big data</li>
 </ul>
 
-##Teaching
+<h3>Teaching</h3>
 NYU CS-UY 4563 Introduction to machine learning (Teaching assistant)[course webpage](https://www.chrismusco.com/introml/)
 
