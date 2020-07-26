@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Prathamesh</strong> Dharangutte
-description:  prathameshd (at) nyu (dot) edu
+description:  prathamesh.d (at) nyu (dot) edu
 
 profile:
   align: right
