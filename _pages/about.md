@@ -12,16 +12,16 @@ news: false
 social: true
 ---
 
-I am a master's student in Computer Science at NYU Tandon School of Engineering. My research and general interest lie in the field of theoretical machine learning. I am interested in creating new and efficient learning algorithms for large datasets. I am also excited about bayesian methods in deep learning.
+I am a master's student in Computer Science at NYU Tandon School of Engineering. My interests lie in the fields of theoretical machine learning and optimization. I am also interested in creating new and efficient learning algorithms for large datasets.
 
 Before coming to NYU, I worked as a software engineer at HSBC, Pune. I completed my bachelor's in Computer Engineering from PICT, Pune.
 
-My current interests in a nutshell include:
-<ul>
-	<li>Theory for machine learning</li>
-	<li>Algorithms for big data</li>
-</ul>
+<h3>Research</h3>
++ [**Graph Learning for Inverse Landscape Genetics**](https://arxiv.org/abs/2006.12334) <br/>
+**Prathamesh Dharangutte**, Christopher Musco <br/>
+*Preprint* <br/>
+
 
 <h3>Teaching</h3>
-NYU CS-UY 4563 Introduction to machine learning (Teaching assistant)[(course webpage.)](https://www.chrismusco.com/introml/)
+NYU CS-UY 4563 Introduction to machine learning (Teaching assistant)[(course webpage)](https://www.chrismusco.com/introml/)
 
