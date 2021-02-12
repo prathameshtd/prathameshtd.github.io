@@ -12,7 +12,7 @@ news: false
 social: true
 ---
 
-I am a master's student in Computer Science at NYU Tandon School of Engineering. My interests lie in the fields of theoretical machine learning and optimization. I am also interested in creating new and efficient learning algorithms for large datasets. I am fortunate to be advised by [Dr. Christopher Musco](https://www.chrismusco.com/).
+I am a master's student in Computer Science at NYU Tandon School of Engineering and part of the [Algorithms and Foundations Group](https://csefoundations.engineering.nyu.edu/). My interests lie in the fields of theoretical machine learning and optimization. I am also interested in creating new and efficient learning algorithms for large datasets. I am fortunate to be advised by [Dr. Christopher Musco](https://www.chrismusco.com/).
 
 Before coming to NYU, I worked as a software engineer at HSBC, Pune. I completed my bachelor's in Computer Engineering from PICT, Pune.
 
@@ -20,9 +20,9 @@ Before coming to NYU, I worked as a software engineer at HSBC, Pune. I completed
 *Authors appear in alphabetical order*.  <br/>
 
 <h4>Preprint</h4>
-+ Dynamic trace and spectral density estimation <br/>
++ [**Dynamic trace estimation**](https://prathameshtd.github.io/assets/pdf/dynamic_trace.pdf) <br/>
 Prathamesh Dharangutte, Christopher Musco <br/>
-*Work in progress* <br/>
+*Preprint* <br/>
 
 <h4>Conference and Workshop Papers</h4>
 + [**Graph Learning for Inverse Landscape Genetics**](https://arxiv.org/abs/2006.12334) <br/>
