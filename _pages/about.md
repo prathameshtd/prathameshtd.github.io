@@ -28,7 +28,7 @@ Prathamesh Dharangutte, Christopher Musco <br/>
 
 + [**An Energy-Based View of Graph Neural Networks**](https://prathameshtd.github.io) <br/>
 John Young Shin\*, Prathamesh Dharangutte\*  <br/>
-*EBM Workshop (ICLR 2021)* <br/>
+*EBM Workshop (ICLR 2021).* <br/>
 
 
 + [**Graph Learning for Inverse Landscape Genetics**](https://arxiv.org/abs/2006.12334) <br/>
