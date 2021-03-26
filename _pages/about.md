@@ -17,7 +17,7 @@ I am a master's student in Computer Science at NYU Tandon School of Engineering 
 Before coming to NYU, I worked as a software engineer at HSBC, Pune. I completed my bachelor's in Computer Engineering from PICT, Pune.
 
 <h3>Research</h3>
-*Authors appear in alphabetical order*.  <br/>
+*Author names appear in alphabetical ordering. Exceptions are marked with* *.   <br/>
 
 <h4>Preprint</h4>
 + [**Dynamic trace estimation**](https://prathameshtd.github.io/assets/pdf/dynamic_trace.pdf) <br/>
@@ -25,10 +25,16 @@ Prathamesh Dharangutte, Christopher Musco <br/>
 *Preprint* <br/>
 
 <h4>Conference and Workshop Papers</h4>
+
++ [**An Energy-Based View of Graph Neural Networks***](https://prathameshtd.github.io) <br/>
+John Young Shin, Prathamesh Dharangutte  <br/>
+*EBM Workshop (ICLR 2021)* <br/>
+
+
 + [**Graph Learning for Inverse Landscape Genetics**](https://arxiv.org/abs/2006.12334) <br/>
 Prathamesh Dharangutte, Christopher Musco <br/>
 *AAAI Conference on Artificial Intelligence (AAAI 2021).* <br/>
-*Short version in NeurIPS 2020 AI for Earth Sciences workshop.*<br/>
+*Short version in AI for Earth Sciences Workshop (NeurIPS 2020).*<br/>
 
 
 <h3>Teaching</h3>
