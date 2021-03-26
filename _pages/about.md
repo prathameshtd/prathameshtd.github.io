@@ -26,8 +26,8 @@ Prathamesh Dharangutte, Christopher Musco <br/>
 
 <h4>Conference and Workshop Papers</h4>
 
-+ [**An Energy-Based View of Graph Neural Networks***](https://prathameshtd.github.io) <br/>
-John Young Shin, Prathamesh Dharangutte  <br/>
++ [**An Energy-Based View of Graph Neural Networks**](https://prathameshtd.github.io) <br/>
+John Young Shin*, Prathamesh Dharangutte*  <br/>
 *EBM Workshop (ICLR 2021)* <br/>
 
 
