@@ -12,9 +12,13 @@ news: false
 social: true
 ---
 
-I am a master's student in Computer Science at NYU Tandon School of Engineering and part of the [Algorithms and Foundations Group](https://csefoundations.engineering.nyu.edu/). My interests lie in the fields of theoretical machine learning and optimization. I am also interested in creating new and efficient learning algorithms for learning from large datasets. I am fortunate to be advised by [Prof. Christopher Musco](https://www.chrismusco.com/).
+Starting Fall 2021, I'll be a PhD student at Rutgers University in Computer Science as part of the Theory group, advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/).
+
+
+I am a master's student in Computer Science at NYU Tandon School of Engineering and part of the [Algorithms and Foundations Group](https://csefoundations.engineering.nyu.edu/). My interests lie in the fields of theoretical machine learning and optimization. I am also interested in creating new and efficient learning algorithms for learning from large datasets. I am fortunate to be advised by [Prof. Christopher Musco](https://www.chrismusco.com/). 
 
 Before coming to NYU, I worked as a software engineer at HSBC, Pune. I completed my bachelor's in Computer Engineering from PICT, Pune.
+
 
 <h3>Research</h3>
 *Author names appear in alphabetical ordering. Exceptions are marked with* *.   <br/>
