@@ -23,12 +23,12 @@ Before coming to NYU, I worked as a software engineer at HSBC, Pune. I completed
 <h3>Research</h3>
 *Author names appear in alphabetical ordering. Exceptions are marked with* *.   <br/>
 
-<h4>Preprint</h4>
-+ [**Dynamic trace estimation**](https://prathameshtd.github.io/assets/pdf/dynamic_trace.pdf) <br/>
-Prathamesh Dharangutte, Christopher Musco <br/>
-*Preprint* <br/>
 
 <h4>Conference and Workshop Papers</h4>
+
++ [**Dynamic trace estimation**](https://prathameshtd.github.io/assets/pdf/dynamic_trace.pdf) <br/>
+Prathamesh Dharangutte, Christopher Musco <br/>
+* Conference on Neural Information Processing Systems (NeurIPS) 2021.* <br/>
 
 + [**An Energy-Based View of Graph Neural Networks**](https://arxiv.org/abs/2104.13492) <br/>
 John Y. Shin\*, Prathamesh Dharangutte\*  <br/>
