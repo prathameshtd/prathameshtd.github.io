@@ -14,7 +14,7 @@ social: true
 
 I am a first-year PhD student at Rutgers University. I am fortunate to be advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/) and be a member of the [Theory group](https://theory.cs.rutgers.edu/).
 
-My research interests lie (very) broadly in the fields of algorithms and learning theory. My current research involves topics in differential privacy.
+My research interests lie (very) broadly in the fields of algorithms and theoretical machine learning. My current research involves topics in differential privacy.
 
 Before joining Rutgers, I completed my Master's in Computer Science at NYU Tandon School of Engineering during which I was incredibly lucky to have the opportunity to work with [Prof. Christopher Musco](https://www.chrismusco.com/). I obtained my Bachelor's in Computer Engineering from PICT, Pune after which I worked for at HSBC, Pune as a software engineer.
 
