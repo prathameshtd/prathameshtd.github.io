@@ -43,4 +43,5 @@ Prathamesh Dharangutte, Christopher Musco <br/>
 
 <h3>Teaching</h3>
 Rutgers CS 501 Mathematical Foundations of Data Science (Teaching assistant)
+
 NYU CS-UY 4563 Introduction to machine learning (Teaching assistant)
