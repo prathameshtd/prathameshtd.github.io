@@ -12,13 +12,13 @@ news: false
 social: true
 ---
 
-Starting Fall 2021, I'll be a PhD student at Rutgers University and a member of the Theory group, advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/).
+I am a first-year PhD student at Rutgers University. I am fortunate to be advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/) and be a member of the [Theory group](https://theory.cs.rutgers.edu/).
 
+My research interests lie (very) broadly in the fields of algorithms and learning theory. My current research involves topics in differential privacy.
 
-I am a master's student in Computer Science at NYU Tandon School of Engineering and part of the [Algorithms and Foundations Group](https://csefoundations.engineering.nyu.edu/). My interests lie in the fields of theoretical machine learning and optimization. I am also interested in creating new and efficient algorithms for learning from large datasets. I am fortunate to be advised by [Prof. Christopher Musco](https://www.chrismusco.com/). 
+Before joining Rutgers, I completed my Master's in Computer Science at NYU Tandon School of Engineering during which I was incredibly lucky to have the opportunity to work with [Prof. Christopher Musco](https://www.chrismusco.com/). I obtained my Bachelor's in Computer Engineering from PICT, Pune after which I worked for at HSBC, Pune as a software engineer.
 
-Before coming to NYU, I worked as a software engineer at HSBC, Pune. I completed my bachelor's in Computer Engineering from PICT, Pune.
-
+Apart from work, I enjoy video games, traveling and absolutely love trying different food(cooking and eating). I also have a new found fondness for hiking.
 
 <h3>Research</h3>
 *Author names appear in alphabetical ordering. Exceptions are marked with* *.   <br/>
@@ -42,5 +42,5 @@ Prathamesh Dharangutte, Christopher Musco <br/>
 
 
 <h3>Teaching</h3>
-NYU CS-UY 4563 Introduction to machine learning (Teaching assistant)[(course webpage)](https://www.chrismusco.com/introml/)
-
+Rutgers CS 501 Mathematical Foundations of Data Science (Teaching assistant)
+NYU CS-UY 4563 Introduction to machine learning (Teaching assistant)
