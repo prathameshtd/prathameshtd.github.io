@@ -26,7 +26,7 @@ Apart from work, I enjoy video games and traveling. I also have a new found fond
 
 <h4>Conference and Workshop Papers</h4>
 
-+ [**Dynamic trace estimation**](https://prathameshtd.github.io/assets/pdf/dynamic_trace.pdf) <br/>
++ [**Dynamic trace estimation**](https://arxiv.org/abs/2110.13752) <br/>
 Prathamesh Dharangutte, Christopher Musco <br/>
 *Conference on Neural Information Processing Systems (NeurIPS) 2021.* <br/>
 
