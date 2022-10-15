@@ -23,13 +23,15 @@ Apart from work, I enjoy video games and traveling. I also have a new found fond
 <h3>Research</h3>
 *Author names appear in alphabetical ordering. Exceptions are marked with* *.   <br/>
 
-<h4>Preprints</h4>
+
+
+
+<h4>Conference and Workshop Papers</h4>
 
 + [**A Tight Analysis of Hutchinson's Diagonal Estimator**](https://arxiv.org/abs/2208.03268) <br/>
 Prathamesh Dharangutte, Christopher Musco <br/>
-manuscript
+*SIAM Symposium on Simplicity in Algorithms (SOSA 2023).*<br/>
 
-<h4>Conference and Workshop Papers</h4>
 
 + [**Dynamic trace estimation**](https://arxiv.org/abs/2110.13752) <br/>
 Prathamesh Dharangutte, Christopher Musco <br/>
