@@ -28,9 +28,8 @@ Apart from work, I enjoy video games and traveling. I also have a new found fond
 
 <h4>Conference and Workshop Papers</h4>
 
-+ [**Integer Subspace Differential Privacy**]() <br/>
-Prathamesh Dharangutte, Jie Gao, Ruobin Gong, Fang-Yi Yu<br/>
-*AAAI Conference on Artificial Intelligence (AAAI 2023).*<br/>
+
+
 
 + [**A Tight Analysis of Hutchinson's Diagonal Estimator**](https://arxiv.org/abs/2208.03268) <br/>
 Prathamesh Dharangutte, Christopher Musco <br/>
