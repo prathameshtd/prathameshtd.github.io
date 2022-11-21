@@ -12,13 +12,13 @@ news: false
 social: true
 ---
 
-I am a first-year PhD student in Computer Science at Rutgers University. I am fortunate to be advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/) and be a part of the [Theory group](https://theory.cs.rutgers.edu/).
+I am a second year PhD student in Computer Science at Rutgers University. I am fortunate to be advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/) and be a part of the [Theory group](https://theory.cs.rutgers.edu/).
 
 My research interests lie (very) broadly in the fields of algorithms and learning theory. My current research involves topics in differential privacy.
 
-Before joining Rutgers, I completed my Master's in CS at NYU Tandon School of Engineering during which I was incredibly lucky to have the opportunity to work with [Prof. Christopher Musco](https://www.chrismusco.com/). I obtained my Bachelor's in Computer Engineering from PICT, Pune after which I worked for at HSBC, Pune as a software engineer.
+Before joining Rutgers, I completed my Master's in CS at NYU Tandon School of Engineering during which I was incredibly lucky to have the opportunity to work with [Prof. Christopher Musco](https://www.chrismusco.com/). I obtained my Bachelor's in Computer Engineering from PICT, Pune after which I worked at HSBC, Pune as a software engineer.
 
-Apart from work, I enjoy video games and traveling. I also have a new found fondness for hiking.
+Apart from research, I enjoy video games and traveling. I also have a new found fondness for hiking.
 
 <h3>Research</h3>
 *Author names appear in alphabetical ordering. Exceptions are marked with* *.   <br/>
@@ -45,7 +45,7 @@ Prathamesh Dharangutte, Christopher Musco <br/>
 
 + [**An Energy-Based View of Graph Neural Networks**](https://arxiv.org/abs/2104.13492) <br/>
 John Y. Shin\*, Prathamesh Dharangutte\*  <br/>
-*Energy-Based Models Workshop (ICLR 2021).* <br/>
+*Energy-Based Models Workshop (EBM-ICLR 2021).* <br/>
 
 
 + [**Graph Learning for Inverse Landscape Genetics**](https://arxiv.org/abs/2006.12334) <br/>
