@@ -29,7 +29,7 @@ Apart from research, I enjoy video games and traveling. I also have a new found 
 <h4>Conference and Workshop Papers</h4>
 
 
-+ [**Integer Subspace Differential Privacy**]() <br/>
++ [**Integer Subspace Differential Privacy**](https://arxiv.org/abs/2212.00936) <br/>
 Prathamesh Dharangutte, Jie Gao, Ruobin Gong, Fang-Yi Yu<br/>
 *AAAI Conference on Artificial Intelligence (AAAI 2023).*<br/>
 
