@@ -20,13 +20,12 @@ Before joining Rutgers, I completed my Master's in CS at NYU Tandon School of En
 
 Apart from research, I enjoy video games and traveling. I also have a new found fondness for hiking.
 
-<h3>Research</h3>
+
+<h3>Publications</h3>
 *Author names appear in alphabetical ordering. Exceptions are marked with* *.   <br/>
 
 
-
-
-<h4>Conference and Workshop Papers</h4>
+<h4>Conference Papers</h4>
 
 
 + [**Integer Subspace Differential Privacy**](https://arxiv.org/abs/2212.00936) <br/>
@@ -43,10 +42,6 @@ Prathamesh Dharangutte, Christopher Musco <br/>
 Prathamesh Dharangutte, Christopher Musco <br/>
 *Conference on Neural Information Processing Systems (NeurIPS) 2021.* <br/>
 
-+ [**An Energy-Based View of Graph Neural Networks**](https://arxiv.org/abs/2104.13492) <br/>
-John Y. Shin\*, Prathamesh Dharangutte\*  <br/>
-*Energy-Based Models Workshop (EBM-ICLR 2021).* <br/>
-
 
 + [**Graph Learning for Inverse Landscape Genetics**](https://arxiv.org/abs/2006.12334) <br/>
 Prathamesh Dharangutte, Christopher Musco <br/>
@@ -54,6 +49,16 @@ Prathamesh Dharangutte, Christopher Musco <br/>
 *Short version in AI for Earth Sciences Workshop (NeurIPS 2020).*<br/>
 
 
+<h4>Workshop Paper</h4>
+
+
++ [**An Energy-Based View of Graph Neural Networks**](https://arxiv.org/abs/2104.13492) <br/>
+John Y. Shin\*, Prathamesh Dharangutte\*  <br/>
+*Energy-Based Models Workshop (EBM-ICLR 2021).* <br/>
+
+
 <h3>Teaching</h3>
-Rutgers CS 501 Mathematical Foundations of Data Science (Teaching assistant)     
-NYU CS-UY 4563 Introduction to machine learning (Teaching assistant)
+TA: Rutgers CS461 Machine Learning Principles (Fall 2022)
+TA: Rutgers CS210 Data Management for Data Science (Spring 2022)
+TA: Rutgers CS501 Mathematical Foundations of Data Science (Fall 2021)     
+TA: NYU CS-UY 4563 Introduction to Machine Learning (Spring 2020)
