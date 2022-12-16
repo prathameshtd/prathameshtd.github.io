@@ -60,5 +60,5 @@ John Y. Shin\*, Prathamesh Dharangutte\*  <br/>
 <h3>Teaching</h3>
 TA: Rutgers CS461 Machine Learning Principles (Fall 2022) <br/>
 TA: Rutgers CS210 Data Management for Data Science (Spring 2022) <br/>
-TA: Rutgers CS501 Mathematical Foundations of Data Science (Fall 2021) <br/>    
+TA: Rutgers CS501 Mathematical Foundations of Data Science (Fall 2021) <br/>
 TA: NYU CS-UY 4563 Introduction to Machine Learning (Spring 2020)
