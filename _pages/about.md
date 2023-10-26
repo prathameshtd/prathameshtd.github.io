@@ -16,7 +16,7 @@ I am a second year PhD student in Computer Science at Rutgers University. I am f
 
 My research interests lie (very) broadly in the fields of algorithms and learning theory. My current research involves topics in differential privacy.
 
-Before joining Rutgers, I completed my Master's in CS at NYU Tandon School of Engineering during which I was incredibly lucky to have the opportunity to work with [Prof. Christopher Musco](https://www.chrismusco.com/). I obtained my Bachelor's in Computer Engineering from PICT, Pune after which I worked at HSBC, Pune as a software engineer.
+Before joining Rutgers, I completed my Master's in CS at NYU Tandon School of Engineering during which I was lucky to have the opportunity to work with [Prof. Christopher Musco](https://www.chrismusco.com/). I obtained my Bachelor's in Computer Engineering from PICT, Pune after which I worked at HSBC, Pune as a software engineer.
 
 Apart from research, I enjoy video games and traveling. I also have a new found fondness for hiking.
 
