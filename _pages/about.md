@@ -27,7 +27,7 @@ Apart from research, I enjoy video games and traveling. I also have a new found 
 
 <h4>Preprint</h4>
 
-+ [**Metric Clustering and MST with Strong and Weak Distance Oracles**](https://arxiv.org/abs/2212.00936) <br/>
++ [**Metric Clustering and MST with Strong and Weak Distance Oracles**](https://arxiv.org/abs/2310.15863) <br/>
 MohammadHossein Bateni, Prathamesh Dharangutte, Rajesh Jayaram, Chen Wang <br/>
 
 
