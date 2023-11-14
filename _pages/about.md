@@ -34,7 +34,7 @@ MohammadHossein Bateni, Prathamesh Dharangutte, Rajesh Jayaram, Chen Wang <br/>
 <h4>Conference Papers</h4>
 
 
-+ [**Integer Subspace Differential Privacy**](https://arxiv.org/abs/2310.15863) <br/>
++ [**Integer Subspace Differential Privacy**](https://arxiv.org/abs/2212.00936) <br/>
 Prathamesh Dharangutte, Jie Gao, Ruobin Gong, Fang-Yi Yu<br/>
 *AAAI Conference on Artificial Intelligence (AAAI 2023).*<br/>
 
