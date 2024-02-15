@@ -27,30 +27,33 @@ Apart from research, I enjoy video games and traveling. I also have a new found 
 
 <h4>Preprint</h4>
 
+++ [**Differentially Private Range Queries with Correlated Input Perturbation**](https://arxiv.org/abs/2402.07066) <br/>
+with Jie Gao, Ruobin Gong and Guanyang Wang.
+
 + [**Metric Clustering and MST with Strong and Weak Distance Oracles**](https://arxiv.org/abs/2310.15863) <br/>
-MohammadHossein Bateni, Prathamesh Dharangutte, Rajesh Jayaram, Chen Wang <br/>
+with MohammadHossein Bateni, Rajesh Jayaram and Chen Wang. <br/>
 
 
 <h4>Conference Papers</h4>
 
 
 + [**Integer Subspace Differential Privacy**](https://arxiv.org/abs/2212.00936) <br/>
-Prathamesh Dharangutte, Jie Gao, Ruobin Gong, Fang-Yi Yu<br/>
+with Jie Gao, Ruobin Gong and Fang-Yi Yu.<br/>
 *AAAI Conference on Artificial Intelligence (AAAI 2023).*<br/>
 
 
 + [**A Tight Analysis of Hutchinson's Diagonal Estimator**](https://arxiv.org/abs/2208.03268) <br/>
-Prathamesh Dharangutte, Christopher Musco <br/>
+with Christopher Musco. <br/>
 *SIAM Symposium on Simplicity in Algorithms (SOSA 2023).*<br/>
 
 
 + [**Dynamic trace estimation**](https://arxiv.org/abs/2110.13752) <br/>
-Prathamesh Dharangutte, Christopher Musco <br/>
+with Christopher Musco. <br/>
 *Conference on Neural Information Processing Systems (NeurIPS) 2021.* <br/>
 
 
 + [**Graph Learning for Inverse Landscape Genetics**](https://arxiv.org/abs/2006.12334) <br/>
-Prathamesh Dharangutte, Christopher Musco <br/>
+with Christopher Musco. <br/>
 *AAAI Conference on Artificial Intelligence (AAAI 2021).* <br/>
 *Short version in AI for Earth Sciences Workshop (NeurIPS 2020).*<br/>
 
@@ -58,12 +61,13 @@ Prathamesh Dharangutte, Christopher Musco <br/>
 <h4>Workshop Paper</h4>
 
 
-+ [**An Energy-Based View of Graph Neural Networks**](https://arxiv.org/abs/2104.13492) <br/>
-John Y. Shin\*, Prathamesh Dharangutte\*  <br/>
++ [**An Energy-Based View of Graph Neural Networks**](https://arxiv.org/abs/2104.13492)\* <br/>
+with John Y. Shin.  <br/>
 *Energy-Based Models Workshop (EBM-ICLR 2021).* <br/>
 
 
 <h3>Teaching</h3>
+TA: Rutgers CS205 Intro to Discrete Structures I (Spring 2023)
 TA: Rutgers CS461 Machine Learning Principles (Fall 2022) <br/>
 TA: Rutgers CS210 Data Management for Data Science (Spring 2022) <br/>
 TA: Rutgers CS501 Mathematical Foundations of Data Science (Fall 2021) <br/>
