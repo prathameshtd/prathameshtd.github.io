@@ -27,7 +27,7 @@ Apart from research, I enjoy video games and traveling. I also have a new found 
 
 <h4>Preprint</h4>
 
-++ [**Differentially Private Range Queries with Correlated Input Perturbation**](https://arxiv.org/abs/2402.07066) <br/>
++ [**Differentially Private Range Queries with Correlated Input Perturbation**](https://arxiv.org/abs/2402.07066) <br/>
 with Jie Gao, Ruobin Gong and Guanyang Wang.
 
 + [**Metric Clustering and MST with Strong and Weak Distance Oracles**](https://arxiv.org/abs/2310.15863) <br/>
