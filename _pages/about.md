@@ -67,7 +67,7 @@ with John Y. Shin.  <br/>
 
 
 <h3>Teaching</h3>
-TA: Rutgers CS205 Intro to Discrete Structures I (Spring 2023)
+TA: Rutgers CS205 Intro to Discrete Structures I (Spring 2023) <br/>
 TA: Rutgers CS461 Machine Learning Principles (Fall 2022) <br/>
 TA: Rutgers CS210 Data Management for Data Science (Spring 2022) <br/>
 TA: Rutgers CS501 Mathematical Foundations of Data Science (Fall 2021) <br/>
