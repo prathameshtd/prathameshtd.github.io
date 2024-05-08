@@ -12,7 +12,7 @@ news: false
 social: true
 ---
 
-I am a second year PhD student in Computer Science at Rutgers University. I am fortunate to be advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/) and be a part of the [Theory group](https://theory.cs.rutgers.edu/).
+I am a third year PhD student in Computer Science at Rutgers University. I am fortunate to be advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/) and be a part of the [Theory group](https://theory.cs.rutgers.edu/).
 
 My research interests lie (very) broadly in the fields of algorithms and learning theory. My current research involves topics in differential privacy.
 
@@ -30,11 +30,13 @@ Apart from research, I enjoy video games and traveling. I also have a new found 
 + [**Differentially Private Range Queries with Correlated Input Perturbation**](https://arxiv.org/abs/2402.07066) <br/>
 with Jie Gao, Ruobin Gong and Guanyang Wang.
 
-+ [**Metric Clustering and MST with Strong and Weak Distance Oracles**](https://arxiv.org/abs/2310.15863) <br/>
-with MohammadHossein Bateni, Rajesh Jayaram and Chen Wang. <br/>
-
 
 <h4>Conference Papers</h4>
+
++ [**Metric Clustering and MST with Strong and Weak Distance Oracles**](https://arxiv.org/abs/2310.15863) <br/>
+with MohammadHossein Bateni, Rajesh Jayaram and Chen Wang. <br/>
+*Conference on Learning Theory (COLT 2024).*<br/>
+
 
 
 + [**Integer Subspace Differential Privacy**](https://arxiv.org/abs/2212.00936) <br/>
