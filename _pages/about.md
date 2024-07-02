@@ -33,6 +33,10 @@ with Jie Gao, Ruobin Gong and Guanyang Wang.
 
 <h4>Conference Papers</h4>
 
++ [**Learning-augmented Maximum Independent Set**]() <br/>
+with Vladimir Braverman, Vihan Shah and Chen Wang. <br/>
+*International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX 2024).*<br/>
+
 + [**Metric Clustering and MST with Strong and Weak Distance Oracles**](https://arxiv.org/abs/2310.15863) <br/>
 with MohammadHossein Bateni, Rajesh Jayaram and Chen Wang. <br/>
 *Conference on Learning Theory (COLT 2024).*<br/>
