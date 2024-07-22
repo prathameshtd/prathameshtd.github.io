@@ -33,7 +33,7 @@ with Jie Gao, Ruobin Gong and Guanyang Wang.
 
 <h4>Conference Papers</h4>
 
-+ [**Learning-augmented Maximum Independent Set**]() <br/>
++ [**Learning-augmented Maximum Independent Set**](https://arxiv.org/abs/2407.11364) <br/>
 with Vladimir Braverman, Vihan Shah and Chen Wang. <br/>
 *International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX 2024).*<br/>
 
@@ -66,9 +66,13 @@ with Christopher Musco. <br/>
 
 <h4>Workshop Paper</h4>
 
++ [**HeartInsightify: Interpreting Longitudinal Heart Rate Data for Health Insights through Conformal Clustering**]()\* <br/>
+Prathamesh Dharangutte, Zongxing Xie, Jie Gao, Elinor Schoenfeld, Yindong Hua, and Fan Ye.  <br/>
+*International Workshop on Biomedical and Health Informatics (BHI 2023).* <br/>
+
 
 + [**An Energy-Based View of Graph Neural Networks**](https://arxiv.org/abs/2104.13492)\* <br/>
-with John Y. Shin.  <br/>
+John Y. Shin and Prathamesh Dharangutte.  <br/>
 *Energy-Based Models Workshop (EBM-ICLR 2021).* <br/>
 
 
