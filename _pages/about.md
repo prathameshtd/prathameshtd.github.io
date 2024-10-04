@@ -66,7 +66,7 @@ with Christopher Musco. <br/>
 
 + [**Differentially Private Range Queries with Correlated Input Perturbation**](https://arxiv.org/abs/2402.07066) <br/>
 with Jie Gao, Ruobin Gong and Guanyang Wang. <br/>
-* Theory and Practice of Differential Privacy (TPDP 2024).* <br/>
+*Theory and Practice of Differential Privacy (TPDP 2024).* <br/>
 
 + [**HeartInsightify: Interpreting Longitudinal Heart Rate Data for Health Insights through Conformal Clustering**]()\* <br/>
 Prathamesh Dharangutte, Zongxing Xie, Jie Gao, Elinor Schoenfeld, Yindong Hua, and Fan Ye.  <br/>
