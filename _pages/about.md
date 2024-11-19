@@ -29,7 +29,7 @@ Apart from research, I enjoy video games and traveling. I also have a new found 
 <h4>Preprints</h4>
 
 + [**Fully Dynamic Adversarially Robust Correlation Clustering in Polylogarithmic Update Time**](https://arxiv.org/abs/2411.09979) <br/>
-with Vladimir Braverman, Shreyas Pai, Vihan Shah, Chen Wang.
+with Vladimir Braverman, Shreyas Pai, Vihan Shah and Chen Wang.
 
 
 
