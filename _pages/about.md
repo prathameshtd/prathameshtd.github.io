@@ -35,6 +35,10 @@ with Vladimir Braverman, Shreyas Pai, Vihan Shah and Chen Wang.
 
 <h4>Conference Papers</h4>
 
++ [**Hardness and Approximation Algorithms for Balanced Districting Problems**]() <br/>
+with Jie Gao, Shang-En Huang and Fang-Yi Yu. <br/>
+*Foundations of Responsible Computing (FORC 2025).*<br/>
+
 + [**Learning-augmented Maximum Independent Set**](https://arxiv.org/abs/2407.11364) <br/>
 with Vladimir Braverman, Vihan Shah and Chen Wang. <br/>
 *International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX 2024).*<br/>
