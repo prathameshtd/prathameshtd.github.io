@@ -26,11 +26,6 @@ Apart from research, I enjoy video games and traveling. I also have a new found 
 
 
 
-<h4>Preprints</h4>
-
-
-
-
 
 <h4>Conference Papers</h4>
 
