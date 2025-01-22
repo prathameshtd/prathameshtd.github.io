@@ -28,12 +28,20 @@ Apart from research, I enjoy video games and traveling. I also have a new found 
 
 <h4>Preprints</h4>
 
-+ [**Fully Dynamic Adversarially Robust Correlation Clustering in Polylogarithmic Update Time**](https://arxiv.org/abs/2411.09979) <br/>
-with Vladimir Braverman, Shreyas Pai, Vihan Shah and Chen Wang.
+
 
 
 
 <h4>Conference Papers</h4>
+
++ [**Fully Dynamic Adversarially Robust Correlation Clustering in Polylogarithmic Update Time**](https://arxiv.org/abs/2411.09979) <br/>
+with Vladimir Braverman, Shreyas Pai, Vihan Shah and Chen Wang. <br/>
+*Conference on Artificial Intelligence and Statistics (AISTATS 2025).* <br/>
+
++ [**Differentially Private Range Queries with Correlated Input Perturbation**](https://arxiv.org/abs/2402.07066) <br/>
+with Jie Gao, Ruobin Gong and Guanyang Wang. <br/>
+*Conference on Artificial Intelligence and Statistics (AISTATS 2025).* <br/>
+*Short version in Theory and Practice of Differential Privacy (TPDP 2024).* <br/>
 
 + [**Hardness and Approximation Algorithms for Balanced Districting Problems**]() <br/>
 with Jie Gao, Shang-En Huang and Fang-Yi Yu. <br/>
@@ -73,9 +81,6 @@ with Christopher Musco. <br/>
 <h4>Workshop Papers</h4>
 
 
-+ [**Differentially Private Range Queries with Correlated Input Perturbation**](https://arxiv.org/abs/2402.07066) <br/>
-with Jie Gao, Ruobin Gong and Guanyang Wang. <br/>
-*Theory and Practice of Differential Privacy (TPDP 2024).* <br/>
 
 + [**HeartInsightify: Interpreting Longitudinal Heart Rate Data for Health Insights through Conformal Clustering**]()\* <br/>
 Prathamesh Dharangutte, Zongxing Xie, Jie Gao, Elinor Schoenfeld, Yindong Hua, and Fan Ye.  <br/>
