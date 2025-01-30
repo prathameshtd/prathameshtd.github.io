@@ -38,7 +38,7 @@ with Jie Gao, Ruobin Gong and Guanyang Wang. <br/>
 *Conference on Artificial Intelligence and Statistics (AISTATS 2025).* <br/>
 *Short version in Theory and Practice of Differential Privacy (TPDP 2024).* <br/>
 
-+ [**Hardness and Approximation Algorithms for Balanced Districting Problems**]() <br/>
++ [**Hardness and Approximation Algorithms for Balanced Districting Problems**](https://arxiv.org/abs/2501.17277) <br/>
 with Jie Gao, Shang-En Huang and Fang-Yi Yu. <br/>
 *Foundations of Responsible Computing (FORC 2025).*<br/>
 
