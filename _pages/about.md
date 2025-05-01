@@ -29,6 +29,10 @@ Apart from research, I enjoy video games and traveling. I also have a new found 
 
 <h4>Conference Papers</h4>
 
++ [**Relative Error Fair Clustering in the Weak-Strong Oracle Model**]() <br/>
+with Vladimir Braverman, Shaofeng Jiang, Hoai-An Nguyen, Chen Wang, Yubo Zhang, Samson Zhou. <br/>
+*International Conference on Machine Learning (ICML 2025).*<br/>
+
 + [**Hardness and Approximation Algorithms for Balanced Districting Problems**](https://arxiv.org/abs/2501.17277) <br/>
 with Jie Gao, Shang-En Huang and Fang-Yi Yu. <br/>
 *Foundations of Responsible Computing (FORC 2025).*<br/>
