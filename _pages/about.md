@@ -29,7 +29,7 @@ Apart from research, I enjoy video games and traveling. I also have a new found 
 
 <h4>Conference Papers</h4>
 
-+ [**Relative Error Fair Clustering in the Weak-Strong Oracle Model**]() <br/>
++ [**Relative Error Fair Clustering in the Weak-Strong Oracle Model**](https://arxiv.org/abs/2506.12287) <br/>
 with Vladimir Braverman, Shaofeng Jiang, Hoai-An Nguyen, Chen Wang, Yubo Zhang and Samson Zhou. <br/>
 *International Conference on Machine Learning (ICML 2025).*<br/>
 
