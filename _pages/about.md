@@ -12,7 +12,7 @@ news: false
 social: true
 ---
 
-I am a third year PhD student in Computer Science at Rutgers University. I am fortunate to be advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/) and be a part of the [Theory group](https://theory.cs.rutgers.edu/).
+I am a fifth year PhD student in Computer Science at Rutgers University. I am fortunate to be advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/) and be a part of the [Theory group](https://theory.cs.rutgers.edu/).
 
 My research interests lie (very) broadly in the fields of algorithms and learning theory. My current research involves topics in differential privacy.
 
