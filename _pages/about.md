@@ -30,49 +30,48 @@ Apart from research, I enjoy video games and traveling. I also have a new found 
 <h4>Conference Papers</h4>
 
 + [**Relative Error Fair Clustering in the Weak-Strong Oracle Model**](https://arxiv.org/abs/2506.12287) <br/>
-with Vladimir Braverman, Shaofeng Jiang, Hoai-An Nguyen, Chen Wang, Yubo Zhang and Samson Zhou. <br/>
+Vladimir Braverman, Prathamesh Dharangutte, Shaofeng Jiang, Hoai-An Nguyen, Chen Wang, Yubo Zhang and Samson Zhou. <br/>
 *International Conference on Machine Learning (ICML 2025).*<br/>
 
 + [**Hardness and Approximation Algorithms for Balanced Districting Problems**](https://arxiv.org/abs/2501.17277) <br/>
-with Jie Gao, Shang-En Huang and Fang-Yi Yu. <br/>
+Prathamesh Dharangutte, Jie Gao, Shang-En Huang and Fang-Yi Yu. <br/>
 *Foundations of Responsible Computing (FORC 2025).*<br/>
 
 + [**Fully Dynamic Adversarially Robust Correlation Clustering in Polylogarithmic Update Time**](https://arxiv.org/abs/2411.09979) <br/>
-with Vladimir Braverman, Shreyas Pai, Vihan Shah and Chen Wang. <br/>
+Vladimir Braverman, Prathamesh Dharangutte, Shreyas Pai, Vihan Shah and Chen Wang. <br/>
 *Conference on Artificial Intelligence and Statistics (AISTATS 2025).* <br/>
 
 + [**Differentially Private Range Queries with Correlated Input Perturbation**](https://arxiv.org/abs/2402.07066) <br/>
-with Jie Gao, Ruobin Gong and Guanyang Wang. <br/>
+Prathamesh Dharangutte, Jie Gao, Ruobin Gong and Guanyang Wang. <br/>
 *Conference on Artificial Intelligence and Statistics (AISTATS 2025).* <br/>
 *Short version in Theory and Practice of Differential Privacy (TPDP 2024).* <br/>
 
 + [**Learning-augmented Maximum Independent Set**](https://arxiv.org/abs/2407.11364) <br/>
-with Vladimir Braverman, Vihan Shah and Chen Wang. <br/>
+Vladimir Braverman, Prathamesh Dharangutte, Vihan Shah and Chen Wang. <br/>
 *International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX 2024).*<br/>
 
 + [**Metric Clustering and MST with Strong and Weak Distance Oracles**](https://arxiv.org/abs/2310.15863) <br/>
-with MohammadHossein Bateni, Rajesh Jayaram and Chen Wang. <br/>
+MohammadHossein Bateni, Prathamesh Dharangutte, Rajesh Jayaram and Chen Wang. <br/>
 *Conference on Learning Theory (COLT 2024).*<br/>
 
 
-
 + [**Integer Subspace Differential Privacy**](https://arxiv.org/abs/2212.00936) <br/>
-with Jie Gao, Ruobin Gong and Fang-Yi Yu.<br/>
+Prathamesh Dharangutte, Jie Gao, Ruobin Gong and Fang-Yi Yu.<br/>
 *AAAI Conference on Artificial Intelligence (AAAI 2023).*<br/>
 
 
 + [**A Tight Analysis of Hutchinson's Diagonal Estimator**](https://arxiv.org/abs/2208.03268) <br/>
-with Christopher Musco. <br/>
+Prathamesh Dharangutte, Christopher Musco. <br/>
 *SIAM Symposium on Simplicity in Algorithms (SOSA 2023).*<br/>
 
 
 + [**Dynamic trace estimation**](https://arxiv.org/abs/2110.13752) <br/>
-with Christopher Musco. <br/>
+Prathamesh Dharangutte, Christopher Musco. <br/>
 *Conference on Neural Information Processing Systems (NeurIPS) 2021.* <br/>
 
 
 + [**Graph Learning for Inverse Landscape Genetics**](https://arxiv.org/abs/2006.12334) <br/>
-with Christopher Musco. <br/>
+Prathamesh Dharangutte, Christopher Musco. <br/>
 *AAAI Conference on Artificial Intelligence (AAAI 2021).* <br/>
 *Short version in AI for Earth Sciences Workshop (NeurIPS 2020).*<br/>
 
