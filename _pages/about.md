@@ -12,7 +12,6 @@ news: false
 social: true
 ---
 
-> <span style="color:red">I am on the job market for a postdoc or full-time industry position. Please feel free to contact if you see a match, thank you!</span>
 
 I am a fifth year PhD student in Computer Science at Rutgers University. I am fortunate to be advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/) and be a part of the [Theory group](https://theory.cs.rutgers.edu/).
 
@@ -21,6 +20,9 @@ My research interests lie (very) broadly in the fields of algorithms and learnin
 Before joining Rutgers, I completed my Master's in CS at NYU Tandon School of Engineering during which I was lucky to have the opportunity to work with [Prof. Christopher Musco](https://www.chrismusco.com/). I obtained my Bachelor's in Computer Engineering from PICT, Pune after which I worked at HSBC, Pune as a software engineer.
 
 Apart from research, I enjoy video games and traveling. I also have a new found fondness for hiking.
+
+
+> <span style="color:red">I am on the job market for a postdoc or full-time industry position. Please feel free to contact if you see a match, thank you!</span>
 
 
 <h3>Publications</h3>
