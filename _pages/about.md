@@ -12,6 +12,8 @@ news: false
 social: true
 ---
 
+> <span style="color:red">I am on the job market for a postdoc or full-time industry position. Please feel free to contact if you see a match, thank you!</span>
+
 I am a fifth year PhD student in Computer Science at Rutgers University. I am fortunate to be advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/) and be a part of the [Theory group](https://theory.cs.rutgers.edu/).
 
 My research interests lie (very) broadly in the fields of algorithms and learning theory. My current research involves topics in differential privacy.
