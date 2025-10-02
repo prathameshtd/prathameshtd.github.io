@@ -25,8 +25,8 @@ Apart from research, I enjoy video games and traveling. I also have a new found 
 <details open role="note">
   <summary>📣 Open to Opportunities</summary>
   <p>
-    <span style="color:red"><strong>I am on the job market for a postdoc or full-time industry position.</strong>
-    Please feel free to contact if you see a match, thank you!</span>
+    <span style="color:red"><strong>I am on the job market for a postdoc or full-time industry position.
+    Please feel free to contact if you see a match, thank you!</strong></span>
   </p>
 </details>
 
