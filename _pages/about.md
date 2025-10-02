@@ -22,13 +22,14 @@ Before joining Rutgers, I completed my Master's in CS at NYU Tandon School of En
 Apart from research, I enjoy video games and traveling. I also have a new found fondness for hiking.
 
 
-<fieldset role="note" aria-live="polite">
-  <legend>📣 Open to Opportunities</legend>
+<details open role="note">
+  <summary>📣 Open to Opportunities</summary>
   <p>
     <span style="color:red"><strong>I am on the job market for a postdoc or full-time industry position.</strong>
     Please feel free to contact if you see a match, thank you!</span>
   </p>
-</fieldset>
+</details>
+
 
 <h3>Publications</h3>
 *Author names appear in alphabetical ordering. Exceptions are marked with* *.   <br/>
