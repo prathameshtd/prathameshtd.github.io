@@ -13,17 +13,22 @@ social: true
 ---
 
 
-I am a fifth year PhD student in Computer Science at Rutgers University. I am fortunate to be advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/) and be a part of the [Theory group](https://theory.cs.rutgers.edu/).
+I am a fifth year PhD candidate in Computer Science at Rutgers University. I am fortunate to be advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/) and be a part of the [Theory group](https://theory.cs.rutgers.edu/).
 
-My research interests lie (very) broadly in the fields of algorithms and learning theory. My current research involves topics in differential privacy.
+My research interests lie (very) broadly in the fields of Theoretical Computer Science, Machine Learning and Trustworthy AI.
 
 Before joining Rutgers, I completed my Master's in CS at NYU Tandon School of Engineering during which I was lucky to have the opportunity to work with [Prof. Christopher Musco](https://www.chrismusco.com/). I obtained my Bachelor's in Computer Engineering from PICT, Pune after which I worked at HSBC, Pune as a software engineer.
 
 Apart from research, I enjoy video games and traveling. I also have a new found fondness for hiking.
 
 
-> <span style="color:red">I am on the job market for a postdoc or full-time industry position. Please feel free to contact if you see a match, thank you!</span>
-
+<fieldset role="note" aria-live="polite">
+  <legend>📣 Open to Opportunities</legend>
+  <p>
+    <span style="color:red"><strong>I am on the job market for a postdoc or full-time industry position.</strong>
+    Please feel free to contact if you see a match, thank you!</span>
+  </p>
+</fieldset>
 
 <h3>Publications</h3>
 *Author names appear in alphabetical ordering. Exceptions are marked with* *.   <br/>
