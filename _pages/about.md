@@ -35,6 +35,11 @@ Apart from research, I enjoy video games and traveling. I also have a new found 
 *Author names appear in alphabetical ordering. Exceptions are marked with* *.   <br/>
 
 
+<h4>Preprint</h4>
+
++ [** The Price of Privacy For Approximating Max-CSP**](https://arxiv.org/abs/2602.09273)<br/>
+Prathamesh Dharangutte, Jingcheng Liu, Pasin Manurangsi, Akbar Rafiey, Phanu Vajanopath, Zongrui Zou/ <br/>
+*Preprint.*<br/>
 
 
 <h4>Conference Papers</h4>
