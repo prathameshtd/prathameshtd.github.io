@@ -44,6 +44,10 @@ Prathamesh Dharangutte, Jingcheng Liu, Pasin Manurangsi, Akbar Rafiey, Phanu Vaj
 
 <h4>Conference Papers</h4>
 
++ [**Packing Compact Subgraphs with Applications to Districting**]() <br/>
+Ho-Lin Chen, Po-Yu Chou, Prathamesh Dharangutte, Jie Gao, Shang-En Huang and Fang-Yi Yu. <br/>
+*Foundations of Responsible Computing (FORC 2026).*<br/>
+
 + [**Relative Error Fair Clustering in the Weak-Strong Oracle Model**](https://arxiv.org/abs/2506.12287) <br/>
 Vladimir Braverman, Prathamesh Dharangutte, Shaofeng Jiang, Hoai-An Nguyen, Chen Wang, Yubo Zhang and Samson Zhou. <br/>
 *International Conference on Machine Learning (ICML 2025).*<br/>
