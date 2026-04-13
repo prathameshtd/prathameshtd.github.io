@@ -36,7 +36,7 @@ Prathamesh Dharangutte, Jingcheng Liu, Pasin Manurangsi, Akbar Rafiey, Phanu Vaj
 
 <h4>Conference Papers</h4>
 
-+ [**Packing Compact Subgraphs with Applications to Districting**]() <br/>
++ [**Packing Compact Subgraphs with Applications to Districting**](https://arxiv.org/abs/2604.09522) <br/>
 Ho-Lin Chen, Po-Yu Chou, Prathamesh Dharangutte, Jie Gao, Shang-En Huang and Fang-Yi Yu. <br/>
 *Foundations of Responsible Computing (FORC 2026).*<br/>
 
