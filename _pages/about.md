@@ -13,13 +13,12 @@ social: true
 ---
 
 
-I am a fifth-year PhD candidate in Computer Science at Rutgers University. I am fortunate to be advised by [Prof. Jie Gao](https://sites.rutgers.edu/jie-gao/about/) and be a part of the [Theory group](https://theory.cs.rutgers.edu/).
+I am a postdoc at the [University of Copenhagen](https://di.ku.dk/english/) in the [Foundations of Responsible Machine Learning](https://cope-forml.github.io/) group, working with [Amartya Sanyal](https://amartya18x.github.io/). 
 
-My research interests lie (very) broadly in Theoretical Computer Science, Machine Learning, and Trustworthy AI.
+My research interests lie (very) broadly at the intersection of Theoretical Computer Science and Trustworthy AI. I am also interested in algorithmic aspects of modern machine learning.
 
-Before joining Rutgers, I completed my Master's in CS at NYU Tandon School of Engineering, during which I was lucky to have the opportunity of working with [Prof. Christopher Musco](https://www.chrismusco.com/). I obtained my Bachelor's in Computer Engineering from PICT, Pune.
+Before joining UCPH, I was fortunate to be advised by [Jie Gao](https://sites.rutgers.edu/jie-gao/about/) during my PhD at [Rutgers University](https://www.cs.rutgers.edu/) and by [Christopher Musco](https://www.chrismusco.com/) during my MS at [New York University](https://engineering.nyu.edu/). Even before, I obtained my Bachelor's from PICT, Pune.
 
-Apart from research, I enjoy video games and traveling. I also have a newfound fondness for hiking.
 
 
 
@@ -29,8 +28,16 @@ Apart from research, I enjoy video games and traveling. I also have a newfound f
 
 <h4>Preprint</h4>
 
++ [**Fully Dynamic Correlation Clustering with Vertex Updates in Polylogarithmic Update Time]()<br/>
+Vladimir Braverman, Prathamesh Dharangutte, Chenglin Fan, Chen Wang, Shenghao Xie and Samson Zhou. <br/>
+*Preprint.*<br/>
+
++ [**Almost-tight Bounds for Learning-augmented Maximum Independent Set]()<br/>
+Vladimir Braverman, Prathamesh Dharangutte, Daniel Reichman and Chen Wang.<br/>
+*Preprint.*<br/>
+
 + [**The Price of Privacy For Approximating Max-CSP**](https://arxiv.org/abs/2602.09273)<br/>
-Prathamesh Dharangutte, Jingcheng Liu, Pasin Manurangsi, Akbar Rafiey, Phanu Vajanopath, Zongrui Zou. <br/>
+Prathamesh Dharangutte, Jingcheng Liu, Pasin Manurangsi, Akbar Rafiey, Phanu Vajanopath and Zongrui Zou. <br/>
 *Preprint.*<br/>
 
 
