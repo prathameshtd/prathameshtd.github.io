@@ -28,11 +28,11 @@ Before joining UCPH, I was fortunate to be advised by [Jie Gao](https://sites.ru
 
 <h4>Preprint</h4>
 
-+ [**Fully Dynamic Correlation Clustering with Vertex Updates in Polylogarithmic Update Time]()<br/>
++ [**Fully Dynamic Correlation Clustering with Vertex Updates in Polylogarithmic Update Time**]()<br/>
 Vladimir Braverman, Prathamesh Dharangutte, Chenglin Fan, Chen Wang, Shenghao Xie and Samson Zhou. <br/>
 *Preprint.*<br/>
 
-+ [**Almost-tight Bounds for Learning-augmented Maximum Independent Set]()<br/>
++ [**Almost-tight Bounds for Learning-augmented Maximum Independent Set**]()<br/>
 Vladimir Braverman, Prathamesh Dharangutte, Daniel Reichman and Chen Wang.<br/>
 *Preprint.*<br/>
 
